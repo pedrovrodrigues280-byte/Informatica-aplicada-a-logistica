@@ -13,3 +13,4 @@ Pergunta 2
 <img width="919" height="494" alt="Captura de tela 2026-09-01 200413" src="https://github.com/user-attachments/assets/7cab2272-88ab-444b-a541-923b89d36318" />
 # Planilhas Eletrônicas e dados abertos
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/pedro_rodrigues105_aluno_cps_sp_gov_br/Documents/chegadas-2025.xlsx?d=w85acf566bf4c4b9e993a3424b260eb7b&csf=1&web=1&e=sdFfst
+<img width="1361" height="716" alt="Captura de tela 2026-09-09 203110" src="https://github.com/user-attachments/assets/db9c2341-def9-4b14-90ea-079b8b2933e4" />
