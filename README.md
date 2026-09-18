@@ -14,3 +14,6 @@ Pergunta 2
 # Planilhas Eletrônicas e dados abertos
 https://centropaulasouza-my.sharepoint.com/:x:/r/personal/pedro_rodrigues105_aluno_cps_sp_gov_br/Documents/chegadas-2025.xlsx?d=w85acf566bf4c4b9e993a3424b260eb7b&csf=1&web=1&e=sdFfst
 <img width="1361" height="716" alt="Captura de tela 2026-09-09 203110" src="https://github.com/user-attachments/assets/db9c2341-def9-4b14-90ea-079b8b2933e4" />
+#Introdução ao PowerBI
+<img width="1342" height="815" alt="Captura de tela 2026-09-17 224530" src="https://github.com/user-attachments/assets/dcc33061-f224-490d-9bef-9196123f481c" />
+<img width="1337" height="768" alt="Captura de tela 2026-09-17 224601" src="https://github.com/user-attachments/assets/7b0939f9-edea-4e79-baa1-f9c2586024c6" />
