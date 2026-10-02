@@ -9,3 +9,6 @@ https://mail.google.com/mail/u/0?ui=2&ik=3b5a26e95c&attid=0.1&permmsgid=msg-a:r2
 
 # Aula-do-dia-28/08/2026-perguntas-e-respostas
 [operador_transporte_multimodal.xlsx](https://github.com/user-attachments/files/32939840/operador_transporte_multimodal.xlsx)
+
+# Planilhas Eletrônicas e dados abertos
+[operador_transporte_multimodal.xlsx](https://github.com/user-attachments/files/32939862/operador_transporte_multimodal.xlsx)
