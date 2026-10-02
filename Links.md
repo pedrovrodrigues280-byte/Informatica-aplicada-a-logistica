@@ -12,3 +12,24 @@ https://mail.google.com/mail/u/0?ui=2&ik=3b5a26e95c&attid=0.1&permmsgid=msg-a:r2
 
 # Planilhas Eletrônicas e dados abertos
 [operador_transporte_multimodal.xlsx](https://github.com/user-attachments/files/32939862/operador_transporte_multimodal.xlsx)
+
+# Dados-abertos-Power-BI
+
+
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/pbip/pbipProperties/1.0.0/schema.json",
+  "version": "1.0",
+  "artifacts": [
+    {
+      "report": {
+        "path": "Turistas internacionais.Report"
+      }
+    }
+  ],
+  "settings": {
+    "enableAutoRecovery": true
+  }
+}
+
+
+
