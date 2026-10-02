@@ -1,5 +1,5 @@
 # Informatica-aplicada-a-logistica
-Teste
+Registro de aulas e atividades
 # Apresentacao-em-grupo
 Apresentação em grupo em que cada membro de cada equipe se apresentou para a turma e compartilhou curiosidades pessoais
 
