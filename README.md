@@ -8,8 +8,8 @@ https://canva.link/envhe79izyqiw30
 # Excel-21/08/2026
 Aula sobre a ferramenta Excel e funcionalidades como a tabela dinâmica
 
-https://mail.google.com/mail/u/0?ui=2&ik=3b5a26e95c&attid=0.1&permmsgid=msg-a:r2707214313741791974&th=1a0269ce006cdd66&view=att&disp=safe&realattid=f_mt3khc3v0&zw
 <img width="1917" height="1031" alt="Captura de tela 2026-08-21 202104" src="https://github.com/user-attachments/assets/09572cb9-9b96-483c-9fe2-25aaea1acb6b" />
+
 # Aula-do-dia-28/08/2026-perguntas-e-respostas
 Atividade passada em aula, na qual nós alunos fomos instruídos a elaborar perguntas nos baseando na base de dados de operadores de transporte multimodal e responde-las utilizando as ferramentas e fórmulas do Excel como o cont.se e a tabela dinâmica
 
@@ -21,9 +21,7 @@ Pergunta 2
 <img width="919" height="494" alt="Captura de tela 2026-09-01 200413" src="https://github.com/user-attachments/assets/7cab2272-88ab-444b-a541-923b89d36318" />
 
 # Planilhas Eletrônicas e dados abertos
-Foram aulas em que os alunos foram instruídos à selecionar uma base de dados do Portal de Dados Abertos, elaborar 5 perguntas e responde-las usando as ferramentas e fórmulas do Excel
-
-[chegadas-2025.xlsx](https://github.com/user-attachments/files/32938900/chegadas-2025.xlsx)
+Aulas em que os alunos foram instruídos à selecionar uma base de dados do Portal de Dados Abertos, elaborar 5 perguntas e responde-las usando as ferramentas e fórmulas do Excel
 
 <img width="1361" height="716" alt="Captura de tela 2026-09-09 203110" src="https://github.com/user-attachments/assets/db9c2341-def9-4b14-90ea-079b8b2933e4" />
 
