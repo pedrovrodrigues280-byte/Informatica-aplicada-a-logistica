@@ -37,3 +37,5 @@ Aula em que, usando o Power BI em vez do Excel, utilizamos a mesma base de dados
 <img width="921" height="498" alt="Captura de tela 2026-09-19 123503" src="https://github.com/user-attachments/assets/72216d81-cbad-4cee-978e-003b61e28362" />
 <img width="837" height="501" alt="Captura de tela 2026-09-19 123515" src="https://github.com/user-attachments/assets/68f11d68-b8de-41d4-8389-eef4ae9b597b" />
 
+# Power-BI-com-figuras
+<img width="788" height="504" alt="Captura de tela 2026-10-12 142957" src="https://github.com/user-attachments/assets/ceb9fe1c-ab0b-4212-b7dc-66fa6099756a" />
