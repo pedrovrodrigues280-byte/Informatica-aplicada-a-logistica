@@ -39,3 +39,15 @@ Aula em que, usando o Power BI em vez do Excel, utilizamos a mesma base de dados
 
 # Power-BI-com-figuras
 <img width="788" height="504" alt="Captura de tela 2026-10-12 142957" src="https://github.com/user-attachments/assets/ceb9fe1c-ab0b-4212-b7dc-66fa6099756a" />
+
+# Regressão linear, uso de IA e visualizações
+<img width="1334" height="675" alt="Captura de tela 2026-11-06 104748" src="https://github.com/user-attachments/assets/e8164f9c-19e0-4487-bc2a-2159c32dd3b8" />
+
+Excel
+<img width="1365" height="654" alt="Captura de tela 2026-11-06 104907" src="https://github.com/user-attachments/assets/f1f89702-5b94-456c-b717-8a4db1224b94" />
+
+Google colab
+
+<img width="651" height="379" alt="Captura de tela 2026-11-06 110009" src="https://github.com/user-attachments/assets/a4fcbc2c-7ac0-4523-8ddc-0add329372d7" />
+
+O gráfico do google colab está mais completo e é possível analisar pontos de maior discrepância com maior precisão
