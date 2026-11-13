@@ -51,3 +51,16 @@ Google colab
 <img width="651" height="379" alt="Captura de tela 2026-11-06 110009" src="https://github.com/user-attachments/assets/a4fcbc2c-7ac0-4523-8ddc-0add329372d7" />
 
 O gráfico do google colab está mais completo e é possível analisar pontos de maior discrepância com maior precisão
+
+# Prova
+Ex 2
+
+<img width="949" height="572" alt="Captura de tela 2026-11-13 195308" src="https://github.com/user-attachments/assets/399492fb-87ee-499d-b199-b04231bd6e1c" />
+
+
+
+https://github.com/user-attachments/assets/09702550-4d3b-494b-a90d-27a10b35aa09
+
+[piesp_captados.csv](https://github.com/user-attachments/files/34831312/piesp_captados.csv)
+
+[nupcialidade.csv](https://github.com/user-attachments/files/34831330/nupcialidade.csv)
