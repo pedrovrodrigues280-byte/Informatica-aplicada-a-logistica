@@ -38,9 +38,13 @@ Aula em que, usando o Power BI em vez do Excel, utilizamos a mesma base de dados
 <img width="837" height="501" alt="Captura de tela 2026-09-19 123515" src="https://github.com/user-attachments/assets/68f11d68-b8de-41d4-8389-eef4ae9b597b" />
 
 # Power-BI-com-figuras
+Nesta atividade foi requisitado a seleção de um conjunto de dados dos dados abertos do governo federal ou estadual e desenvolver uma tabela dimensional, que possua links para figuras representativas, fazendo também uma visualização que mostre a interação entre as tabelas e mostre as figuras.
+
 <img width="788" height="504" alt="Captura de tela 2026-10-12 142957" src="https://github.com/user-attachments/assets/ceb9fe1c-ab0b-4212-b7dc-66fa6099756a" />
 
 # Regressão linear, uso de IA e visualizações
+Atividade em que foi realizado primeiramente três visualizações utilizando os dados sobre a expectativa de vida global, e segundamente foi feito um gráfico de regressão linear no excel e no Google Collab com base nos dados sobre as notas dos alunos.
+
 <img width="1334" height="675" alt="Captura de tela 2026-11-06 104748" src="https://github.com/user-attachments/assets/e8164f9c-19e0-4487-bc2a-2159c32dd3b8" />
 
 Excel
