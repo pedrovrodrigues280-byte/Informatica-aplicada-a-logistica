@@ -34,3 +34,6 @@ https://mail.google.com/mail/u/0?ui=2&ik=3b5a26e95c&attid=0.1&permmsgid=msg-a:r2
 # Regressão linear, uso de IA e visualizações
 
 [horas_estudadas_x_notas.py](https://github.com/user-attachments/files/35433717/horas_estudadas_x_notas.py)
+
+[student_exam_scores.xlsx](https://github.com/user-attachments/files/35434112/student_exam_scores.xlsx)
+
