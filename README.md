@@ -56,7 +56,7 @@ Google colab
 
 O gráfico do google colab está mais completo e é possível analisar pontos de maior discrepância com maior precisão
 
-# Prova
+# Prova de Informática
 Ex 2
 
 <img width="949" height="572" alt="Captura de tela 2026-11-13 195308" src="https://github.com/user-attachments/assets/399492fb-87ee-499d-b199-b04231bd6e1c" />
