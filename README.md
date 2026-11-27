@@ -37,6 +37,11 @@ Aula em que, usando o Power BI em vez do Excel, utilizamos a mesma base de dados
 <img width="921" height="498" alt="Captura de tela 2026-09-19 123503" src="https://github.com/user-attachments/assets/72216d81-cbad-4cee-978e-003b61e28362" />
 <img width="837" height="501" alt="Captura de tela 2026-09-19 123515" src="https://github.com/user-attachments/assets/68f11d68-b8de-41d4-8389-eef4ae9b597b" />
 
+# Bandeiras e Estados
+Aula em que Foi mostrado como realizar uma tabela dimensionada com figuras representativas que interaja com outra tabela.
+
+<img width="1386" height="817" alt="Captura de tela 2026-11-26 221303" src="https://github.com/user-attachments/assets/85924575-ab64-4cd4-8a1d-d743fc7fc485" />
+
 # Power-BI-com-figuras
 Nesta atividade foi requisitado a seleção de um conjunto de dados dos dados abertos do governo federal ou estadual e desenvolver uma tabela dimensional, que possua links para figuras representativas, fazendo também uma visualização que mostre a interação entre as tabelas e mostre as figuras.
 
